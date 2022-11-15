@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "About Me"
+author: "Zoe Bean"
+date: "2022-11-15"
 image: PROprofile.jpg
 about:
   template: trestles
@@ -17,3 +19,29 @@ I am passionate about problem-solving, and I am excited to explore the different
 I became interested in coding when my undergraduate adviser recommended that I take a computer science class, since in Astronomy there is a lot of data analysis. There I discovered that coding was just a lot of puzzle solving, and it really ignited my passion for problem-solving, especially in coding. From there, I minored in Computer Science and ultimately decided that I wanted to get a masters degree in data analytics. I then enrolled in UMass Amherst's Data Analytics and Computation Social Science program, and I am in my last semester.
 
 I am really excited to apply the skills and tools that I have learned. My experiences in this program as well as with astronomy have shown me that I enjoy data processing and analysis, regardless of the discipline.
+
+## Education
+
+**University of Massachusetts Amherst**
+
+*Master of Science in Data Analytics and Computational Social Science, Expected February 2023*
+
+**Mount Holyoke College**
+
+*Bachelor of Arts in Astronomy, May 2021*
+
+*Minor in Computer Science*
+
+## Experience
+
+*May 2021-July 2021*
+
+Five College Astronomy Department Internship, **Five College Astronomy Department**
+
+*January 2021 - May 2021*
+
+Social Media Consultant, **Mount Holyoke College Fimbel Labs**
+
+*February 2019 -- December 2019*
+
+Astronomy Grader, **Mount Holyoke College Astronomy Department**

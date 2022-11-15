@@ -11,14 +11,28 @@
     "href": "index.html",
     "title": "Zoe’s Blog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 15, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 12, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Nov 15, 2022\n\n\nZoe Bean\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 15, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 12, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/about/about.html",
     "href": "posts/about/about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "I became interested in coding when my undergraduate adviser recommended that I take a computer science class, since in Astronomy there is a lot of data analysis. There I discovered that coding was just a lot of puzzle solving, and it really ignited my passion for problem-solving, especially in coding. From there, I minored in Computer Science and ultimately decided that I wanted to get a masters degree in data analytics. I then enrolled in UMass Amherst’s Data Analytics and Computation Social Science program, and I am in my last semester.\nI am really excited to apply the skills and tools that I have learned. My experiences in this program as well as with astronomy have shown me that I enjoy data processing and analysis, regardless of the discipline."
+    "text": "I am passionate about problem-solving, and I am excited to explore the different ways I can apply the knowledge and skills that I have learned in my college career. I am searching for a data-focused job that will help me explore and build upon those skills.\nI became interested in coding when my undergraduate adviser recommended that I take a computer science class, since in Astronomy there is a lot of data analysis. There I discovered that coding was just a lot of puzzle solving, and it really ignited my passion for problem-solving, especially in coding. From there, I minored in Computer Science and ultimately decided that I wanted to get a masters degree in data analytics. I then enrolled in UMass Amherst’s Data Analytics and Computation Social Science program, and I am in my last semester.\nI am really excited to apply the skills and tools that I have learned. My experiences in this program as well as with astronomy have shown me that I enjoy data processing and analysis, regardless of the discipline."
+  },
+  {
+    "objectID": "posts/about/about.html#education",
+    "href": "posts/about/about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nUniversity of Massachusetts Amherst\nMaster of Science in Data Analytics and Computational Social Science, Expected February 2023\nMount Holyoke College\nBachelor of Arts in Astronomy, May 2021\nMinor in Computer Science"
+  },
+  {
+    "objectID": "posts/about/about.html#experience",
+    "href": "posts/about/about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nMay 2021-July 2021\nFive College Astronomy Department Internship, Five College Astronomy Department\nJanuary 2021 - May 2021\nSocial Media Consultant, Mount Holyoke College Fimbel Labs\nFebruary 2019 – December 2019\nAstronomy Grader, Mount Holyoke College Astronomy Department"
   },
   {
     "objectID": "posts/post-with-code/index.html",
