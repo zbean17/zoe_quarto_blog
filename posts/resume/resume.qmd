@@ -1,0 +1,113 @@
+---
+title: "Resume"
+author: "Zoe Bean"
+date: "2022-11-15"
+---
+
+## Education
+
+**University of Massachusetts Amherst**
+
+*Master of Science in Data Analytics and Computational Social Science, Expected February 2023*
+
+**Mount Holyoke College**
+
+*Bachelor of Arts in Astronomy, May 2021*
+
+*Minor in Computer Science*
+
+**University of St. Andrews (Scotland), Spring 2020**
+
+*Study Abroad Student*
+
+## Relevant Work Experience
+
+*May 2021-July 2021*
+
+Five College Astronomy Department Internship, **Five College Astronomy Department**
+
+-   Used python and astronomy-specific software to present the same coordinates from different telescope
+
+-   Determined if galaxies presented are only visible in certain frequencies
+
+-   Automated the exported list of pictured dark galaxies found
+
+-   Communicated findings to mentors and peers in internship program in an effective and timely manner
+
+*January 2021 - May 2021*
+
+Social Media Consultant, **Mount Holyoke College Fimbel Labs**
+
+-   Advertised and documented projects and events on social media
+
+-   Prioritized post editing for frequent updates to social media account
+
+-   Attended and contributed to weekly staff meetings
+
+-   Utilized organizational skills to determine best direction for account
+
+*February 2019 -- December 2019*
+
+Astronomy Grader, **Mount Holyoke College Astronomy Department**
+
+-   Graded homework and quizzes for classes
+
+-   Collaborated with team of undergraduate student graders and Lecturer
+
+## General Work Experience
+
+*September 2017 -- December 2019*
+
+Dining Services, **Mount Holyoke College**
+
+-   Greeted patrons at door and maintained the dining facility
+
+-   Cleaned and organized dishes
+
+*June 2018 -- August 2019*
+
+Kitchen Assistant, **Western Mass. Girl Scouts Camp Bonnie Brae**
+
+-   Assisted with meal preparation, service and clean up
+
+*June 2017 -- August 2018*
+
+Parking Lot Ambassador, **Jacob's Pillow Dance**
+
+-   Directed cars into parking spots and gave patrons directions to the main events.
+
+-   Collaborated with team to ensure the safety and efficiency of the location
+
+*June 2014 -- December 2016*
+
+Candy Processor, **Peace Love and Chocolate**
+
+-   Weighed, packaged, and labeled candy
+
+-   Assisted with orders and payment processing, as needed
+
+## Activities
+
+*September 2017 - May 2021*
+
+Webnoble (Website manager), Bellatrix, the Sci-Fi and Fantasy Club at Mount Holyoke College
+
+-   Maintained and updated content on website for the oldest club on campus
+
+-   Posted social media updates for events
+
+-   Documented meetings and kept track of planned actions
+
+## Awards
+
+Mildred L Sanderson Math Prize (for excellence in mathematics during the first year) at Mount Holyoke College, 2018
+
+## Technical Skills
+
+R
+
+Python
+
+Java
+
+Excel

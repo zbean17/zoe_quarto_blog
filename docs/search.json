@@ -11,27 +11,55 @@
     "href": "index.html",
     "title": "Zoe’s Blog",
     "section": "",
-    "text": "Nov 15, 2022\n\n\nZoe Bean\n\n\n\n\n\n\nNo matching items"
+    "text": "Nov 15, 2022\n\n\nZoe Bean\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNov 15, 2022\n\n\nZoe Bean\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/about/about.html",
     "href": "posts/about/about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am passionate about problem-solving, and I am excited to explore the different ways I can apply the knowledge and skills that I have learned in my college career. I am searching for a data-focused job that will help me explore and build upon those skills.\nI became interested in coding when my undergraduate adviser recommended that I take a computer science class, since in Astronomy there is a lot of data analysis. There I discovered that coding was just a lot of puzzle solving, and it really ignited my passion for problem-solving, especially in coding. From there, I minored in Computer Science and ultimately decided that I wanted to get a masters degree in data analytics. I then enrolled in UMass Amherst’s Data Analytics and Computation Social Science program, and I am in my last semester.\nI am really excited to apply the skills and tools that I have learned. My experiences in this program as well as with astronomy have shown me that I enjoy data processing and analysis, regardless of the discipline."
+    "text": "How I Got Here:\nI became interested in coding when my undergraduate adviser recommended that I take a computer science class, since in Astronomy there is a lot of data analysis. There I discovered that coding was just a lot of puzzle solving, and it really ignited my passion for problem-solving, especially in coding. From there, I minored in Computer Science and ultimately decided that I wanted to get a masters degree in data analytics. I then enrolled in UMass Amherst’s Data Analytics and Computation Social Science program, and I am in my last semester.\n\nI am really excited to apply the skills and tools that I have learned. My experiences in this program as well as with astronomy have shown me that I enjoy data processing and analysis, regardless of the discipline.\n\n\n\nFun Facts About Me:\n\nI have a cat named Bellatrix\nI taught myself to knit during the pandemic\nI play Animal Crossing"
   },
   {
-    "objectID": "posts/about/about.html#education",
-    "href": "posts/about/about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\nUniversity of Massachusetts Amherst\nMaster of Science in Data Analytics and Computational Social Science, Expected February 2023\nMount Holyoke College\nBachelor of Arts in Astronomy, May 2021\nMinor in Computer Science"
+    "objectID": "posts/resume/resume.html",
+    "href": "posts/resume/resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "University of Massachusetts Amherst\nMaster of Science in Data Analytics and Computational Social Science, Expected February 2023\nMount Holyoke College\nBachelor of Arts in Astronomy, May 2021\nMinor in Computer Science\nUniversity of St. Andrews (Scotland), Spring 2020\nStudy Abroad Student"
   },
   {
-    "objectID": "posts/about/about.html#experience",
-    "href": "posts/about/about.html#experience",
-    "title": "About Me",
-    "section": "Experience",
-    "text": "Experience\nMay 2021-July 2021\nFive College Astronomy Department Internship, Five College Astronomy Department\nJanuary 2021 - May 2021\nSocial Media Consultant, Mount Holyoke College Fimbel Labs\nFebruary 2019 – December 2019\nAstronomy Grader, Mount Holyoke College Astronomy Department"
+    "objectID": "posts/resume/resume.html#relevant-work-experience",
+    "href": "posts/resume/resume.html#relevant-work-experience",
+    "title": "Resume",
+    "section": "Relevant Work Experience",
+    "text": "Relevant Work Experience\nMay 2021-July 2021\nFive College Astronomy Department Internship, Five College Astronomy Department\n\nUsed python and astronomy-specific software to present the same coordinates from different telescope\nDetermined if galaxies presented are only visible in certain frequencies\nAutomated the exported list of pictured dark galaxies found\nCommunicated findings to mentors and peers in internship program in an effective and timely manner\n\nJanuary 2021 - May 2021\nSocial Media Consultant, Mount Holyoke College Fimbel Labs\n\nAdvertised and documented projects and events on social media\nPrioritized post editing for frequent updates to social media account\nAttended and contributed to weekly staff meetings\nUtilized organizational skills to determine best direction for account\n\nFebruary 2019 – December 2019\nAstronomy Grader, Mount Holyoke College Astronomy Department\n\nGraded homework and quizzes for classes\nCollaborated with team of undergraduate student graders and Lecturer"
+  },
+  {
+    "objectID": "posts/resume/resume.html#general-work-experience",
+    "href": "posts/resume/resume.html#general-work-experience",
+    "title": "Resume",
+    "section": "General Work Experience",
+    "text": "General Work Experience\nSeptember 2017 – December 2019\nDining Services, Mount Holyoke College\n\nGreeted patrons at door and maintained the dining facility\nCleaned and organized dishes\n\nJune 2018 – August 2019\nKitchen Assistant, Western Mass. Girl Scouts Camp Bonnie Brae\n\nAssisted with meal preparation, service and clean up\n\nJune 2017 – August 2018\nParking Lot Ambassador, Jacob’s Pillow Dance\n\nDirected cars into parking spots and gave patrons directions to the main events.\nCollaborated with team to ensure the safety and efficiency of the location\n\nJune 2014 – December 2016\nCandy Processor, Peace Love and Chocolate\n\nWeighed, packaged, and labeled candy\nAssisted with orders and payment processing, as needed"
+  },
+  {
+    "objectID": "posts/resume/resume.html#activities",
+    "href": "posts/resume/resume.html#activities",
+    "title": "Resume",
+    "section": "Activities",
+    "text": "Activities\nSeptember 2017 - May 2021\nWebnoble (Website manager), Bellatrix, the Sci-Fi and Fantasy Club at Mount Holyoke College\n\nMaintained and updated content on website for the oldest club on campus\nPosted social media updates for events\nDocumented meetings and kept track of planned actions"
+  },
+  {
+    "objectID": "posts/resume/resume.html#awards",
+    "href": "posts/resume/resume.html#awards",
+    "title": "Resume",
+    "section": "Awards",
+    "text": "Awards\nMildred L Sanderson Math Prize (for excellence in mathematics during the first year) at Mount Holyoke College, 2018"
+  },
+  {
+    "objectID": "posts/resume/resume.html#technical-skills",
+    "href": "posts/resume/resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nR\nPython\nJava\nExcel"
   }
 ]
