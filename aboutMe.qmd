@@ -1,7 +1,8 @@
 ---
 title: "About Me"
+aliases:
+  - index.html
 author: "Zoe Bean"
-date: "2022-11-15"
 image: PROprofile.jpg
 about:
   template: solana
@@ -12,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/zbean17
+    - icon: envelope
+      text: e-Mail
+      href: mailto:zoeannebean@gmail.com
 ---
 
 I am passionate about problem-solving, and I am excited to explore the different ways I can apply the knowledge and skills that I have learned in my college career. I am searching for a data-focused job that will help me explore and build upon those skills.

@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Zoe's Blog"
+  title: "Zoe Bean"
   navbar:
     right:
       - about.qmd
@@ -10,10 +10,17 @@ website:
         href: https://github.com/zbean17
       - icon: linkedin
         href: https://www.linkedin.com/in/zoe-bean170/
+      - icon: envelope
+        href: mailto:zoeannebean@gmail.com
+  sidebar:
+    style: docked
+    contents: ["aboutMe.qmd", "resume.qmd"]
+      
 format:
   html:
     theme: solar
     css: styles.css
+    toc: true
 
 editor: visual
 
