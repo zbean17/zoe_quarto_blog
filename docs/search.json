@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Zoe’s Blog",
     "section": "",
-    "text": "Nov 15, 2022\n\n\nZoe Bean\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 15, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 12, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Nov 15, 2022\n\n\nZoe Bean\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/about/about.html",
@@ -33,19 +33,5 @@
     "title": "About Me",
     "section": "Experience",
     "text": "Experience\nMay 2021-July 2021\nFive College Astronomy Department Internship, Five College Astronomy Department\nJanuary 2021 - May 2021\nSocial Media Consultant, Mount Holyoke College Fimbel Labs\nFebruary 2019 – December 2019\nAstronomy Grader, Mount Holyoke College Astronomy Department"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
