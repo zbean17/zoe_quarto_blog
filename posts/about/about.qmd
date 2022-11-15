@@ -4,7 +4,7 @@ author: "Zoe Bean"
 date: "2022-11-15"
 image: PROprofile.jpg
 about:
-  template: trestles
+  template: solana
   links:
     - icon: linkedin
       text: LinkedIn
